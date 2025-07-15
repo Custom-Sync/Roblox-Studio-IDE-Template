@@ -1,0 +1,7 @@
+{
+  "ignoreUnknownInstances": true,
+  "className": "Players",
+  "attributes": {
+    "RojoSyncMode": "Preserve"
+  }
+}

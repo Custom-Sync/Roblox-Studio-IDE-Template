@@ -1,0 +1,22 @@
+std = "roblox"
+
+[rules]
+# These rules are enabled by default in selene's std.
+shadowing = "allow"
+unused_variable = "warn"
+
+# These rules aren't enabled by default, but are recommended.
+empty_if = "warn"
+if_same_then_else = "warn"
+multiple_statements = "warn"
+no_implicit_return = "warn"
+unbalanced_assignments = "warn"
+unused_local = "warn"
+suspicious_reverse_loop = "warn"
+
+# Roblox-specific rules
+roblox_suspicious_udim2 = "warn"
+
+# Disable these in existing codebase
+global_usage = "allow"
+incorrect_standard_library_use = "allow"

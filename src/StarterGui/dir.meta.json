@@ -1,0 +1,7 @@
+{
+  "ignoreUnknownInstances": true,
+  "className": "StarterGui",
+  "attributes": {
+    "RojoSyncMode": "Preserve"
+  }
+}

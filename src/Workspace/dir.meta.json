@@ -1,0 +1,13 @@
+{
+  "ignoreUnknownInstances": true,
+  "className": "Workspace",
+  "properties": {
+    "FilteringEnabled": true,
+    "StreamingEnabled": true,
+    "AllowThirdPartySales": false
+  },
+  "attributes": {
+    "PreserveParts": true,
+    "RojoSyncMode": "Preserve"
+  }
+}

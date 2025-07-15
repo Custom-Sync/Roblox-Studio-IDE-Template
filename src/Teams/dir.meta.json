@@ -1,0 +1,7 @@
+{
+  "ignoreUnknownInstances": true,
+  "className": "Teams",
+  "attributes": {
+    "RojoSyncMode": "Preserve"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ignoreUnknownInstances": true,
+  "className": "ServerStorage",
+  "attributes": {
+    "RojoSyncMode": "Preserve"
+  }
+}
