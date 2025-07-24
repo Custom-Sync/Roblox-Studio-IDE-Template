@@ -1,6 +1,6 @@
 {
   "ignoreUnknownInstances": true,
-  "className": "Players",
+  "className": "StarterPlayerScripts",
   "attributes": {
     "RojoSyncMode": "Preserve"
   }

@@ -43,11 +43,11 @@
       "$className": "StarterPlayer",
       "StarterPlayerScripts": {
         "$className": "StarterPlayerScripts",
-        "$path": "src/StarterPlayerScripts"
+        "$path": "src/StarterPlayer/StarterPlayerScripts"
       },
       "StarterCharacterScripts": {
         "$className": "StarterCharacterScripts",
-        "$path": "src/StarterCharacterScripts"
+        "$path": "src/StarterPlayer/StarterCharacterScripts"
       }
     },
     "Teams": {
